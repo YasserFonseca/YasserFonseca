@@ -29,7 +29,7 @@ Sou um **Engenheiro de Software** apaixonado por construir soluções eficientes
 ---
 
 ## 📫 Vamos conectar?
-- [💼 LinkedIn](URL_DO_SEU_LINKEDIN_AQUI)
+- [💼 LinkedIn](www.linkedin.com/in/yasser-fonseca)
 - [📧 E-mail](mailto:yasserfonseca01@gmail.com)
 
 ---
