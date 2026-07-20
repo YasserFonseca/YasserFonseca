@@ -1,37 +1,49 @@
-# Olá, eu sou o Yasser! 👋
+# Olá, eu sou o Yasser 👋
 
-## Sobre mim
-Sou um **Engenheiro de Software** apaixonado por construir soluções eficientes, escaláveis e com código limpo. Atualmente, focado na **modernização de sistemas legados** críticos na **JobSystem**, utilizando o ecossistema React e backend em Java/Python. Minha jornada profissional inclui experiências sólidas no desenvolvimento de APIs robustas com Python/Flask e Node.js na **Jogo de Ouro**.
+Sou Software Engineer com foco no desenvolvimento de sistemas empresariais,
+ERPs e aplicações SaaS utilizando React, Next.js e TypeScript.
 
----
+Atualmente trabalho na evolução de um ERP corporativo na JobSystem,
+desenvolvendo interfaces, integrações com APIs, regras de negócio,
+dashboards, relatórios e melhorias de arquitetura.
 
-## 🚀 O que eu ando fazendo
-- 🏗️ Refatorando arquiteturas legadas para **React** moderno e componentes reutilizáveis.
-- 🤖 Integrando **Inteligência Artificial (LLMs)** em aplicações Full Stack (veja meus projetos pinados!).
-- 🌐 Construindo serviços backend focados em performance e segurança com **Java** e **Python**.
+Também desenvolvo projetos próprios para aprofundar conhecimentos em
+autenticação, controle de acesso, bancos de dados, arquitetura de software
+e integração entre frontend e backend.
 
----
+## O que estou construindo
 
-## 🛠️ Tech Stack & Ferramentas
-### Core
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | `Python`, `JavaScript`, `TypeScript`, `Java`, `SQL`, `HTML/CSS` |
-| **Frontend** | `React.js`, `Vite`, `Next.js`, `Tailwind CSS`, `Redux` |
-| **Backend** | `Flask`, `FastAPI`, `Node.js`, `Express`, `Spring Boot` |
-| **Banco de Dados** | `PostgreSQL`, `SQLite`, `MySQL` |
-| **DevOps** | `Docker`, `Git/GitHub`, `CI/CD Concepts`, `Deployment` |
+- Sistemas empresariais com React, Next.js e TypeScript
+- Dashboards e fluxos administrativos
+- Integrações com APIs REST
+- Autenticação, autorização e controle de acesso
+- Aplicações SaaS com PostgreSQL
+- Estudos sobre modernização de sistemas legados
 
-### Gaming Latency & System Optimization
-*(Um pequeno diferencial na minha trajetória!)*
-- Experiência prática em scripts de automação (`PowerShell`) e configurações de sistema para otimização de input lag e performance em jogos competitivos.
+## Tecnologias principais
 
----
+### Frontend
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
-## 📫 Vamos conectar?
-- [💼 LinkedIn](www.linkedin.com/in/yasser-fonseca)
-- [📧 E-mail](mailto:yasserfonseca01@gmail.com)
+### Backend e dados
+Node.js · Python · Flask · PostgreSQL · SQL · REST APIs
 
----
+### Ferramentas
+Git · GitHub · Docker · GitHub Actions · Figma
 
-> *"The best way to predict the future is to invent it."*
+## Projetos em destaque
+
+### ERP Lite
+Sistema de gestão empresarial com estoque, pedidos, financeiro,
+controle de usuários, auditoria e isolamento de dados por empresa.
+
+### Itekton
+Plataforma SaaS para conectar clientes e profissionais da construção civil.
+
+### Strangler Fig Refactoring
+Estudo de modernização gradual de um sistema legado para uma arquitetura
+baseada em microsserviços.
+
+## Contato
+
+- LinkedIn: [Yasser Fonseca](https://www.linkedin.com/in/yasser-fonseca)
